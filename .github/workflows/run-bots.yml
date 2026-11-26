@@ -1,0 +1,105 @@
+name: Minecraft server bot automation to make automated crafting
+
+# One long-lived Minecraft connection per bot. GitHub caps a job at 6h, so a
+# run lasts ~3 hours, stops itself cleanly, and the cron below starts the next
+# one.
+#
+# Everything identifying — server address, bot names, pay target, passwords —
+# comes from repository SECRETS and is injected as environment variables. The
+# workflow never prints a bot name, and the run's matrix only carries a slot
+# index (0,1,2,…) plus that bot's random join slot.
+#
+# Stop the loop:  gh workflow disable "Run Minecraft bots"
+# Start manually:  gh workflow run "Run Minecraft bots"
+
+on:
+  schedule:
+    - cron: '0 */3 * * *'
+  workflow_dispatch:
+    inputs:
+      bots:
+        description: 'Optional override: comma-separated bot names (otherwise the MC_BOTS secret is used)'
+        required: false
+        default: ''
+
+concurrency:
+  group: serverbots
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  resolve:
+    runs-on: ubuntu-latest
+    outputs:
+      matrix: ${{ steps.plan.outputs.matrix }}
+    steps:
+      - id: plan
+        env:
+          INPUT_BOTS: ${{ github.event.inputs.bots }}
+          MC_BOTS: ${{ secrets.MC_BOTS }}
+        run: |
+          raw="${INPUT_BOTS:-$MC_BOTS}"
+          list=$(printf '%s' "$raw" | jq -cR 'split(",") | map(gsub(" "; "")) | map(select(length > 0))')
+          n=$(printf '%s' "$list" | jq 'length')
+          echo "bots in this run: $n"
+          # Random order, then slot x 85s + a random 0-20s jitter. Two bots are
+          # therefore always >=65s apart, and the schedule is re-rolled every
+          # run so a restart never repeats a previous one.
+          order=$(seq 0 $((n - 1)) | sort -R)
+          rank=0
+          entries="[]"
+          for idx in $order; do
+            jitter=$((RANDOM % 21))
+            delay=$(( 70000 + rank * 85000 + jitter * 1000 ))
+            entries=$(jq -c --argjson s "$idx" --argjson d "$delay" '. + [{slot: $s, delay: $d}]' <<<"$entries")
+            rank=$((rank + 1))
+          done
+          matrix=$(jq -cn --argjson inc "$entries" '{include: $inc}')
+          echo "matrix=$matrix" >> "$GITHUB_OUTPUT"
+
+  run-bot:
+    needs: resolve
+    runs-on: ubuntu-latest
+    timeout-minutes: 175
+    strategy:
+      fail-fast: false
+      matrix: ${{ fromJSON(needs.resolve.outputs.matrix) }}
+    name: bot slot ${{ matrix.slot }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm ci --omit=dev
+
+      # Account passwords live in a secret, never in the repo.
+      - name: Seed account passwords
+        env:
+          MC_ACCOUNTS: ${{ secrets.MC_ACCOUNTS }}
+        run: |
+          printf '%s' "$MC_ACCOUNTS" > accounts.json
+          echo "wrote accounts.json ($(jq 'length' accounts.json) entries)"
+
+      - name: Run bot slot ${{ matrix.slot }}
+        env:
+          NO_WEBUI: '1'
+          REMOTE_BUS: '1'
+          BUS_REPO: ${{ github.repository }}
+          BUS_BRANCH: bus
+          BUS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BUS_KEY: ${{ secrets.STATE_KEY }}
+          BUS_INTERVAL_MS: '5000'
+          BUS_STAGGER_MS: ${{ matrix.delay }}
+          MC_SLOT: ${{ matrix.slot }}
+          MC_BOTS: ${{ secrets.MC_BOTS }}
+          MC_AFK_BOTS: ${{ secrets.MC_AFK_BOTS }}
+          MC_HOST: ${{ secrets.MC_HOST }}
+          MC_PORT: ${{ secrets.MC_PORT }}
+          MC_VERSION: ${{ secrets.MC_VERSION }}
+          PAY_TO: ${{ secrets.PAY_TO }}
+        run: node bot.js

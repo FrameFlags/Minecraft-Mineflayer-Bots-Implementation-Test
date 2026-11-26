@@ -1,0 +1,2507 @@
+{
+ "12": {
+  "title": "Workstations",
+  "items": [
+   {
+    "s": 0,
+    "n": "Barrel",
+    "l": "\"\"  Buy Price  ■ $8.17 \"\"  Sell Price  ■ $2.05 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 1,
+    "n": "Blast Furnace",
+    "l": "\"\"  Buy Price  ■ $37.30 \"\"  Sell Price  ■ $9.33 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 2,
+    "n": "Brewing Stand",
+    "l": "\"\"  Buy Price  ■ $7.40 \"\"  Sell Price  ■ $1.85 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 3,
+    "n": "Cartography Table",
+    "l": "\"\"  Buy Price  ■ $4.86 \"\"  Sell Price  ■ $1.22 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 4,
+    "n": "Composter",
+    "l": "\"\"  Buy Price  ■ $4.26 \"\"  Sell Price  ■ $1.07 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 5,
+    "n": "Fletching Table",
+    "l": "\"\"  Buy Price  ■ $8.84 \"\"  Sell Price  ■ $2.21 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 6,
+    "n": "Grindstone",
+    "l": "\"\"  Buy Price  ■ $3.93 \"\"  Sell Price  ■ $0.99 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 7,
+    "n": "Lectern",
+    "l": "\"\"  Buy Price  ■ $127.51 \"\"  Sell Price  ■ $31.88 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 8,
+    "n": "Loom",
+    "l": "\"\"  Buy Price  ■ $17.02 \"\"  Sell Price  ■ $4.26 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 9,
+    "n": "Smithing Table",
+    "l": "\"\"  Buy Price  ■ $16.21 \"\"  Sell Price  ■ $4.06 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 10,
+    "n": "Smoker",
+    "l": "\"\"  Buy Price  ■ $18.60 \"\"  Sell Price  ■ $4.65 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 11,
+    "n": "Stonecutter",
+    "l": "\"\"  Buy Price  ■ $8.04 \"\"  Sell Price  ■ $2.01 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 18,
+    "n": "Player Head",
+    "l": "Balance: $115.83"
+   },
+   {
+    "s": 22,
+    "n": "Paper",
+    "l": ""
+   },
+   {
+    "s": 26,
+    "n": "Barrier",
+    "l": ""
+   }
+  ]
+ },
+ "14": {
+  "title": "Music",
+  "items": [
+   {
+    "s": 0,
+    "n": "Music Disc",
+    "l": "\"\"  Buy Price  ■ $75.00 \"\"  Sell Price  ■ $18.75 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 1,
+    "n": "Music Disc",
+    "l": "\"\"  Buy Price  ■ $75.00 \"\"  Sell Price  ■ $18.75 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 2,
+    "n": "Music Disc",
+    "l": "\"\"  Buy Price  ■ $945.00 \"\"  Sell Price  ■ $236.25 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 3,
+    "n": "Music Disc",
+    "l": "\"\"  Buy Price  ■ $75.00 \"\"  Sell Price  ■ $18.75 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 4,
+    "n": "Music Disc",
+    "l": "\"\"  Buy Price  ■ $75.00 \"\"  Sell Price  ■ $18.75 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 5,
+    "n": "Music Disc",
+    "l": "\"\"  Buy Price  ■ $75.00 \"\"  Sell Price  ■ $18.75 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 6,
+    "n": "Music Disc",
+    "l": "\"\"  Buy Price  ■ $100.00 \"\"  Sell Price  ■ $25.00 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 7,
+    "n": "Music Disc",
+    "l": "\"\"  Buy Price  ■ $100.00 \"\"  Sell Price  ■ $25.00 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 8,
+    "n": "Music Disc",
+    "l": "\"\"  Buy Price  ■ $75.00 \"\"  Sell Price  ■ $18.75 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 9,
+    "n": "Music Disc",
+    "l": "\"\"  Buy Price  ■ $75.00 \"\"  Sell Price  ■ $18.75 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 10,
+    "n": "Music Disc",
+    "l": "\"\"  Buy Price  ■ $75.00 \"\"  Sell Price  ■ $18.75 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 11,
+    "n": "Music Disc",
+    "l": "\"\"  Buy Price  ■ $75.00 \"\"  Sell Price  ■ $18.75 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 12,
+    "n": "Music Disc",
+    "l": "\"\"  Buy Price  ■ $75.00 \"\"  Sell Price  ■ $18.75 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 13,
+    "n": "Music Disc",
+    "l": "\"\"  Buy Price  ■ $100.00 \"\"  Sell Price  ■ $25.00 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 14,
+    "n": "Music Disc",
+    "l": "\"\"  Buy Price  ■ $100.00 \"\"  Sell Price  ■ $25.00 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 15,
+    "n": "Music Disc",
+    "l": "\"\"  Buy Price  ■ $75.00 \"\"  Sell Price  ■ $18.75 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 16,
+    "n": "Music Disc",
+    "l": "\"\"  Buy Price  ■ $75.00 \"\"  Sell Price  ■ $18.75 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 17,
+    "n": "Music Disc",
+    "l": "\"\"  Buy Price  ■ $75.00 \"\"  Sell Price  ■ $18.75 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 18,
+    "n": "Music Disc",
+    "l": "\"\"  Buy Price  ■ $75.00 \"\"  Sell Price  ■ $18.75 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 19,
+    "n": "Goat Horn",
+    "l": "\"\"  Buy Price  ■ $100.00 \"\"  Sell Price  ■ $25.00 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 20,
+    "n": "Goat Horn",
+    "l": "\"\"  Buy Price  ■ $100.00 \"\"  Sell Price  ■ $25.00 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 21,
+    "n": "Goat Horn",
+    "l": "\"\"  Buy Price  ■ $100.00 \"\"  Sell Price  ■ $25.00 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 22,
+    "n": "Goat Horn",
+    "l": "\"\"  Buy Price  ■ $100.00 \"\"  Sell Price  ■ $25.00 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 23,
+    "n": "Goat Horn",
+    "l": "\"\"  Buy Price  ■ $100.00 \"\"  Sell Price  ■ $25.00 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 24,
+    "n": "Goat Horn",
+    "l": "\"\"  Buy Price  ■ $100.00 \"\"  Sell Price  ■ $25.00 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 25,
+    "n": "Goat Horn",
+    "l": "\"\"  Buy Price  ■ $100.00 \"\"  Sell Price  ■ $25.00 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 26,
+    "n": "Goat Horn",
+    "l": "\"\"  Buy Price  ■ $100.00 \"\"  Sell Price  ■ $25.00 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 27,
+    "n": "Player Head",
+    "l": "Balance: $115.83"
+   },
+   {
+    "s": 31,
+    "n": "Paper",
+    "l": ""
+   },
+   {
+    "s": 35,
+    "n": "Barrier",
+    "l": ""
+   }
+  ]
+ },
+ "19": {
+  "title": "Blocks",
+  "items": [
+   {
+    "s": 0,
+    "n": "Stone",
+    "l": "\"\"  Buy Price  ■ $0.83 \"\"  Sell Price  ■ $0.21 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 1,
+    "n": "Cobblestone",
+    "l": "\"\"  Buy Price  ■ $0.78 \"\"  Sell Price  ■ $0.20 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 2,
+    "n": "Mossy Cobblestone",
+    "l": "\"\"  Buy Price  ■ $9.28 \"\"  Sell Price  ■ $2.32 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 3,
+    "n": "Deepslate",
+    "l": "\"\"  Buy Price  ■ $0.83 \"\"  Sell Price  ■ $0.21 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 4,
+    "n": "Cobbled Deepslate",
+    "l": "\"\"  Buy Price  ■ $0.78 \"\"  Sell Price  ■ $0.20 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 5,
+    "n": "Deepslate Tiles",
+    "l": "\"\"  Buy Price  ■ $0.91 \"\"  Sell Price  ■ $0.23 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 6,
+    "n": "Andesite",
+    "l": "\"\"  Buy Price  ■ $0.83 \"\"  Sell Price  ■ $0.21 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 7,
+    "n": "Diorite",
+    "l": "\"\"  Buy Price  ■ $0.83 \"\"  Sell Price  ■ $0.21 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 8,
+    "n": "Polished Diorite",
+    "l": "\"\"  Buy Price  ■ $0.86 \"\"  Sell Price  ■ $0.22 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 9,
+    "n": "Tuff",
+    "l": "\"\"  Buy Price  ■ $2.30 \"\"  Sell Price  ■ $0.57 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 10,
+    "n": "Calcite",
+    "l": "\"\"  Buy Price  ■ $2.30 \"\"  Sell Price  ■ $0.57 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 11,
+    "n": "Dripstone Block",
+    "l": "\"\"  Buy Price  ■ $1.15 \"\"  Sell Price  ■ $0.29 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 12,
+    "n": "Blackstone",
+    "l": "\"\"  Buy Price  ■ $0.86 \"\"  Sell Price  ■ $0.22 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 13,
+    "n": "Polished Blackstone",
+    "l": "\"\"  Buy Price  ■ $0.91 \"\"  Sell Price  ■ $0.23 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 14,
+    "n": "Polished Blackstone Bricks",
+    "l": "\"\"  Buy Price  ■ $0.91 \"\"  Sell Price  ■ $0.23 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 15,
+    "n": "Gilded Blackstone",
+    "l": "\"\"  Buy Price  ■ $3.25 \"\"  Sell Price  ■ $1.49 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 16,
+    "n": "Basalt",
+    "l": "\"\"  Buy Price  ■ $46.00 \"\"  Sell Price  ■ $11.50 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 17,
+    "n": "Bricks",
+    "l": "\"\"  Buy Price  ■ $106.50 \"\"  Sell Price  ■ $26.63 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 18,
+    "n": "Magma Block",
+    "l": "\"\"  Buy Price  ■ $38.67 \"\"  Sell Price  ■ $9.67 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 19,
+    "n": "Glowstone",
+    "l": "\"\"  Buy Price  ■ $33.81 \"\"  Sell Price  ■ $8.45 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 20,
+    "n": "Sand",
+    "l": "\"\"  Buy Price  ■ $3.33 \"\"  Sell Price  ■ $1.03 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 21,
+    "n": "Gravel",
+    "l": "\"\"  Buy Price  ■ $9.20 \"\"  Sell Price  ■ $2.30 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 22,
+    "n": "Clay",
+    "l": "\"\"  Buy Price  ■ $24.15 \"\"  Sell Price  ■ $6.04 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 23,
+    "n": "Packed Ice",
+    "l": "\"\"  Buy Price  ■ $15.52 \"\"  Sell Price  ■ $3.89 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 24,
+    "n": "Snow Block",
+    "l": "\"\"  Buy Price  ■ $14.49 \"\"  Sell Price  ■ $3.62 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 25,
+    "n": "Soul Sand",
+    "l": "\"\"  Buy Price  ■ $11.50 \"\"  Sell Price  ■ $2.88 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 26,
+    "n": "Dirt",
+    "l": "\"\"  Buy Price  ■ $3.45 \"\"  Sell Price  ■ $0.86 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 27,
+    "n": "Rooted Dirt",
+    "l": "\"\"  Buy Price  ■ $1.15 \"\"  Sell Price  ■ $0.29 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 28,
+    "n": "Grass Block",
+    "l": "\"\"  Buy Price  ■ $9.20 \"\"  Sell Price  ■ $2.30 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 29,
+    "n": "Mycelium",
+    "l": "\"\"  Buy Price  ■ $9.20 \"\"  Sell Price  ■ $2.30 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 30,
+    "n": "Podzol",
+    "l": "\"\"  Buy Price  ■ $9.20 \"\"  Sell Price  ■ $2.30 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 31,
+    "n": "Packed Mud",
+    "l": "\"\"  Buy Price  ■ $1.09 \"\"  Sell Price  ■ $0.28 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 32,
+    "n": "Crimson Nylium",
+    "l": "\"\"  Buy Price  ■ $6.90 \"\"  Sell Price  ■ $1.72 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 33,
+    "n": "Warped Nylium",
+    "l": "\"\"  Buy Price  ■ $6.90 \"\"  Sell Price  ■ $1.72 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 34,
+    "n": "Hay Bale",
+    "l": "\"\"  Buy Price  ■ $54.34 \"\"  Sell Price  ■ $13.59 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 35,
+    "n": "Honey Block",
+    "l": "\"\"  Buy Price  ■ $38.34 \"\"  Sell Price  ■ $9.59 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 36,
+    "n": "Dried Kelp Block",
+    "l": "\"\"  Buy Price  ■ $1.09 \"\"  Sell Price  ■ $0.28 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 37,
+    "n": "Slime Block",
+    "l": "\"\"  Buy Price  ■ $54.34 \"\"  Sell Price  ■ $13.59 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 38,
+    "n": "TNT",
+    "l": "\"\"  Buy Price  ■ $122.57 \"\"  Sell Price  ■ $30.65 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 39,
+    "n": "Bookshelf",
+    "l": "\"\"  Buy Price  ■ $136.99 \"\"  Sell Price  ■ $34.25 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 40,
+    "n": "Chiseled Bookshelf",
+    "l": "\"\"  Buy Price  ■ $10.09 \"\"  Sell Price  ■ $2.53 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 41,
+    "n": "Block of Bamboo",
+    "l": "\"\"  Buy Price  ■ $1.09 \"\"  Sell Price  ■ $0.28 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 42,
+    "n": "Block of Stripped Bamboo",
+    "l": "\"\"  Buy Price  ■ $1.15 \"\"  Sell Price  ■ $0.29 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 43,
+    "n": "Bamboo Planks",
+    "l": "\"\"  Buy Price  ■ $0.57 \"\"  Sell Price  ■ $0.15 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 44,
+    "n": "Bamboo Mosaic",
+    "l": "\"\"  Buy Price  ■ $0.63 \"\"  Sell Price  ■ $0.16 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 45,
+    "n": "Player Head",
+    "l": "Balance: $115.83"
+   },
+   {
+    "s": 49,
+    "n": "Paper",
+    "l": ""
+   },
+   {
+    "s": 50,
+    "n": "Arrow",
+    "l": ""
+   },
+   {
+    "s": 53,
+    "n": "Barrier",
+    "l": ""
+   }
+  ]
+ },
+ "20": {
+  "title": "Farming",
+  "items": [
+   {
+    "s": 0,
+    "n": "Bamboo",
+    "l": "\"\"  Buy Price  ■ $0.10 \"\"  Sell Price  ■ $0.03 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 1,
+    "n": "Bee Nest",
+    "l": "\"\"  Buy Price  ■ Cannot be bought \"\"  Sell Price  ■ $10.00 \"\"  Usage:  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 2,
+    "n": "Beehive",
+    "l": "\"\"  Buy Price  ■ $14.56 \"\"  Sell Price  ■ $3.64 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 3,
+    "n": "Beetroot",
+    "l": "\"\"  Buy Price  ■ $6.00 \"\"  Sell Price  ■ $1.50 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 4,
+    "n": "Beetroot Seeds",
+    "l": "\"\"  Buy Price  ■ $3.00 \"\"  Sell Price  ■ $0.75 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 5,
+    "n": "Brown Mushroom",
+    "l": "\"\"  Buy Price  ■ $2.00 \"\"  Sell Price  ■ $0.50 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 6,
+    "n": "Cactus",
+    "l": "\"\"  Buy Price  ■ $0.10 \"\"  Sell Price  ■ $0.03 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 7,
+    "n": "Carrot",
+    "l": "\"\"  Buy Price  ■ $5.00 \"\"  Sell Price  ■ $1.25 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 8,
+    "n": "Chorus Flower",
+    "l": "\"\"  Buy Price  ■ $1.00 \"\"  Sell Price  ■ $0.25 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 9,
+    "n": "Chorus Fruit",
+    "l": "\"\"  Buy Price  ■ $3.00 \"\"  Sell Price  ■ $0.75 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 10,
+    "n": "Cocoa Beans",
+    "l": "\"\"  Buy Price  ■ $6.00 \"\"  Sell Price  ■ $1.50 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 11,
+    "n": "Crimson Fungus",
+    "l": "\"\"  Buy Price  ■ $6.00 \"\"  Sell Price  ■ $1.50 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 12,
+    "n": "Egg",
+    "l": "\"\"  Buy Price  ■ $5.00 \"\"  Sell Price  ■ $1.25 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 13,
+    "n": "Kelp",
+    "l": "\"\"  Buy Price  ■ $0.10 \"\"  Sell Price  ■ $0.03 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 14,
+    "n": "Leather",
+    "l": "\"\"  Buy Price  ■ $33.60 \"\"  Sell Price  ■ $8.40 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 15,
+    "n": "Melon",
+    "l": "\"\"  Buy Price  ■ $9.45 \"\"  Sell Price  ■ $2.37 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 16,
+    "n": "Melon Seeds",
+    "l": "\"\"  Buy Price  ■ $3.00 \"\"  Sell Price  ■ $0.75 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 17,
+    "n": "Melon Slice",
+    "l": "\"\"  Buy Price  ■ $1.00 \"\"  Sell Price  ■ $0.25 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 18,
+    "n": "Nether Wart",
+    "l": "\"\"  Buy Price  ■ $3.00 \"\"  Sell Price  ■ $0.75 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 19,
+    "n": "Pitcher Pod",
+    "l": "\"\"  Buy Price  ■ $20.50 \"\"  Sell Price  ■ $5.13 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 20,
+    "n": "Potato",
+    "l": "\"\"  Buy Price  ■ $5.00 \"\"  Sell Price  ■ $1.25 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 21,
+    "n": "Pumpkin",
+    "l": "\"\"  Buy Price  ■ $5.00 \"\"  Sell Price  ■ $1.25 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 22,
+    "n": "Pumpkin Seeds",
+    "l": "\"\"  Buy Price  ■ $1.19 \"\"  Sell Price  ■ $0.30 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 23,
+    "n": "Red Mushroom",
+    "l": "\"\"  Buy Price  ■ $2.00 \"\"  Sell Price  ■ $0.50 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 24,
+    "n": "Sugar Cane",
+    "l": "\"\"  Buy Price  ■ $0.10 \"\"  Sell Price  ■ $0.03 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 25,
+    "n": "Torchflower Seeds",
+    "l": "\"\"  Buy Price  ■ $20.50 \"\"  Sell Price  ■ $5.13 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 26,
+    "n": "Warped Fungus",
+    "l": "\"\"  Buy Price  ■ $6.00 \"\"  Sell Price  ■ $1.50 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 27,
+    "n": "Wheat",
+    "l": "\"\"  Buy Price  ■ $5.00 \"\"  Sell Price  ■ $1.25 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 28,
+    "n": "Wheat Seeds",
+    "l": "\"\"  Buy Price  ■ $3.00 \"\"  Sell Price  ■ $0.75 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 36,
+    "n": "Player Head",
+    "l": "Balance: $115.83"
+   },
+   {
+    "s": 40,
+    "n": "Paper",
+    "l": ""
+   },
+   {
+    "s": 44,
+    "n": "Barrier",
+    "l": ""
+   }
+  ]
+ },
+ "21": {
+  "title": "Mobs",
+  "items": [
+   {
+    "s": 0,
+    "n": "Arrow",
+    "l": "\"\"  Buy Price  ■ $2.21 \"\"  Sell Price  ■ $0.56 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 1,
+    "n": "Blaze Powder",
+    "l": "\"\"  Buy Price  ■ $2.63 \"\"  Sell Price  ■ $0.66 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 2,
+    "n": "Blaze Rod",
+    "l": "\"\"  Buy Price  ■ $5.00 \"\"  Sell Price  ■ $1.25 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 3,
+    "n": "Bone",
+    "l": "\"\"  Buy Price  ■ $6.00 \"\"  Sell Price  ■ $1.50 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 4,
+    "n": "Ender Pearl",
+    "l": "\"\"  Buy Price  ■ $7.00 \"\"  Sell Price  ■ $1.75 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 5,
+    "n": "Feather",
+    "l": "\"\"  Buy Price  ■ $6.00 \"\"  Sell Price  ■ $1.50 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 6,
+    "n": "Fermented Spider Eye",
+    "l": "\"\"  Buy Price  ■ $9.57 \"\"  Sell Price  ■ $2.40 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 7,
+    "n": "Ghast Tear",
+    "l": "\"\"  Buy Price  ■ $40.00 \"\"  Sell Price  ■ $10.00 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 8,
+    "n": "Gunpowder",
+    "l": "\"\"  Buy Price  ■ $15.50 \"\"  Sell Price  ■ $3.88 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 9,
+    "n": "Magma Cream",
+    "l": "\"\"  Buy Price  ■ $8.01 \"\"  Sell Price  ■ $2.01 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 10,
+    "n": "Nautilus Shell",
+    "l": "\"\"  Buy Price  ■ $180.00 \"\"  Sell Price  ■ $45.00 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 11,
+    "n": "Phantom Membrane",
+    "l": "\"\"  Buy Price  ■ $125.15 \"\"  Sell Price  ■ $31.29 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 12,
+    "n": "Rabbit's Foot",
+    "l": "\"\"  Buy Price  ■ $180.00 \"\"  Sell Price  ■ $45.00 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 13,
+    "n": "Rabbit Hide",
+    "l": "\"\"  Buy Price  ■ $8.00 \"\"  Sell Price  ■ $2.00 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 14,
+    "n": "Rotten Flesh",
+    "l": "\"\"  Buy Price  ■ $5.00 \"\"  Sell Price  ■ $1.25 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 15,
+    "n": "Slimeball",
+    "l": "\"\"  Buy Price  ■ $5.00 \"\"  Sell Price  ■ $1.25 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 16,
+    "n": "Spider Eye",
+    "l": "\"\"  Buy Price  ■ $7.00 \"\"  Sell Price  ■ $1.75 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 17,
+    "n": "String",
+    "l": "\"\"  Buy Price  ■ $7.00 \"\"  Sell Price  ■ $1.75 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 18,
+    "n": "Player Head",
+    "l": "Balance: $115.83"
+   },
+   {
+    "s": 22,
+    "n": "Paper",
+    "l": ""
+   },
+   {
+    "s": 26,
+    "n": "Barrier",
+    "l": ""
+   }
+  ]
+ },
+ "22": {
+  "title": "Enchanting",
+  "items": [
+   {
+    "s": 0,
+    "n": "Enchanted Book",
+    "l": "\"\"  Buy Price  ■ $10,000.00 \"\"  Sell Price  ■ $2,500.00 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 1,
+    "n": "Enchanted Book",
+    "l": "\"\"  Buy Price  ■ $15,000.00 \"\"  Sell Price  ■ $3,750.00 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 2,
+    "n": "Enchanted Book",
+    "l": "\"\"  Buy Price  ■ $18,000.00 \"\"  Sell Price  ■ $4,500.00 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 3,
+    "n": "Enchanted Book",
+    "l": "\"\"  Buy Price  ■ $26,000.00 \"\"  Sell Price  ■ $6,500.00 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 4,
+    "n": "Enchanted Book",
+    "l": "\"\"  Buy Price  ■ $14,000.00 \"\"  Sell Price  ■ $3,500.00 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 5,
+    "n": "Enchanted Book",
+    "l": "\"\"  Buy Price  ■ $18,000.00 \"\"  Sell Price  ■ $4,500.00 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 6,
+    "n": "Enchanted Book",
+    "l": "\"\"  Buy Price  ■ $14,000.00 \"\"  Sell Price  ■ $3,500.00 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 7,
+    "n": "Enchanted Book",
+    "l": "\"\"  Buy Price  ■ $26,000.00 \"\"  Sell Price  ■ $6,500.00 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 8,
+    "n": "Enchanted Book",
+    "l": "\"\"  Buy Price  ■ $10,000.00 \"\"  Sell Price  ■ $2,500.00 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 9,
+    "n": "Enchanted Book",
+    "l": "\"\"  Buy Price  ■ $18,000.00 \"\"  Sell Price  ■ $4,500.00 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 10,
+    "n": "Enchanted Book",
+    "l": "\"\"  Buy Price  ■ $18,000.00 \"\"  Sell Price  ■ $4,500.00 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 11,
+    "n": "Enchanted Book",
+    "l": "\"\"  Buy Price  ■ $18,000.00 \"\"  Sell Price  ■ $4,500.00 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 12,
+    "n": "Enchanted Book",
+    "l": "\"\"  Buy Price  ■ $10,000.00 \"\"  Sell Price  ■ $2,500.00 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 13,
+    "n": "Enchanted Book",
+    "l": "\"\"  Buy Price  ■ $22,000.00 \"\"  Sell Price  ■ $5,500.00 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 14,
+    "n": "Enchanted Book",
+    "l": "\"\"  Buy Price  ■ $26,000.00 \"\"  Sell Price  ■ $6,500.00 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 15,
+    "n": "Enchanted Book",
+    "l": "\"\"  Buy Price  ■ $22,000.00 \"\"  Sell Price  ■ $5,500.00 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 16,
+    "n": "Enchanted Book",
+    "l": "\"\"  Buy Price  ■ $18,000.00 \"\"  Sell Price  ■ $4,500.00 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 17,
+    "n": "Enchanted Book",
+    "l": "\"\"  Buy Price  ■ $18,000.00 \"\"  Sell Price  ■ $4,500.00 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 18,
+    "n": "Enchanted Book",
+    "l": "\"\"  Buy Price  ■ $32,000.00 \"\"  Sell Price  ■ $8,000.00 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 19,
+    "n": "Enchanted Book",
+    "l": "\"\"  Buy Price  ■ $14,000.00 \"\"  Sell Price  ■ $3,500.00 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 20,
+    "n": "Enchanted Book",
+    "l": "\"\"  Buy Price  ■ $21,000.00 \"\"  Sell Price  ■ $5,250.00 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 21,
+    "n": "Enchanted Book",
+    "l": "\"\"  Buy Price  ■ $18,000.00 \"\"  Sell Price  ■ $4,500.00 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 22,
+    "n": "Enchanted Book",
+    "l": "\"\"  Buy Price  ■ $21,000.00 \"\"  Sell Price  ■ $5,250.00 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 23,
+    "n": "Enchanted Book",
+    "l": "\"\"  Buy Price  ■ $18,000.00 \"\"  Sell Price  ■ $4,500.00 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 24,
+    "n": "Enchanted Book",
+    "l": "\"\"  Buy Price  ■ $18,000.00 \"\"  Sell Price  ■ $4,500.00 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 25,
+    "n": "Enchanted Book",
+    "l": "\"\"  Buy Price  ■ $12,000.00 \"\"  Sell Price  ■ $3,000.00 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 26,
+    "n": "Enchanted Book",
+    "l": "Wind Burst enchantment.level.1 \"\"  Buy Price  ■ $25,000.00 \"\"  Sell Price  ■ $6,250.00 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 45,
+    "n": "Player Head",
+    "l": "Balance: $115.83"
+   },
+   {
+    "s": 49,
+    "n": "Paper",
+    "l": ""
+   },
+   {
+    "s": 53,
+    "n": "Barrier",
+    "l": ""
+   }
+  ]
+ },
+ "23": {
+  "title": "Dyes",
+  "items": [
+   {
+    "s": 0,
+    "n": "Black Dye",
+    "l": "\"\"  Buy Price  ■ $5.25 \"\"  Sell Price  ■ $1.32 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 1,
+    "n": "Blue Dye",
+    "l": "\"\"  Buy Price  ■ $1.05 \"\"  Sell Price  ■ $0.27 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 2,
+    "n": "Brown Dye",
+    "l": "\"\"  Buy Price  ■ $6.30 \"\"  Sell Price  ■ $1.58 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 3,
+    "n": "Cyan Dye",
+    "l": "\"\"  Buy Price  ■ $0.61 \"\"  Sell Price  ■ $0.16 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 4,
+    "n": "Gray Dye",
+    "l": "\"\"  Buy Price  ■ $3.62 \"\"  Sell Price  ■ $0.91 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 5,
+    "n": "Green Dye",
+    "l": "\"\"  Buy Price  ■ $0.11 \"\"  Sell Price  ■ $0.03 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 6,
+    "n": "Light Blue Dye",
+    "l": "\"\"  Buy Price  ■ $1.05 \"\"  Sell Price  ■ $0.27 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 7,
+    "n": "Light Gray Dye",
+    "l": "\"\"  Buy Price  ■ $1.05 \"\"  Sell Price  ■ $0.27 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 8,
+    "n": "Lime Dye",
+    "l": "\"\"  Buy Price  ■ $6.30 \"\"  Sell Price  ■ $1.58 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 9,
+    "n": "Magenta Dye",
+    "l": "\"\"  Buy Price  ■ $1.05 \"\"  Sell Price  ■ $0.27 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 10,
+    "n": "Orange Dye",
+    "l": "\"\"  Buy Price  ■ $1.05 \"\"  Sell Price  ■ $0.27 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 11,
+    "n": "Pink Dye",
+    "l": "\"\"  Buy Price  ■ $1.05 \"\"  Sell Price  ■ $0.27 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 12,
+    "n": "Purple Dye",
+    "l": "\"\"  Buy Price  ■ $1.11 \"\"  Sell Price  ■ $0.28 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 13,
+    "n": "Red Dye",
+    "l": "\"\"  Buy Price  ■ $1.05 \"\"  Sell Price  ■ $0.27 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 14,
+    "n": "White Dye",
+    "l": "\"\"  Buy Price  ■ $1.63 \"\"  Sell Price  ■ $0.41 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 15,
+    "n": "Yellow Dye",
+    "l": "\"\"  Buy Price  ■ $0.70 \"\"  Sell Price  ■ $0.18 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 16,
+    "n": "Azure Bluet",
+    "l": "\"\"  Buy Price  ■ $1.00 \"\"  Sell Price  ■ $0.25 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 17,
+    "n": "Blue Orchid",
+    "l": "\"\"  Buy Price  ■ $1.00 \"\"  Sell Price  ■ $0.25 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 18,
+    "n": "Cornflower",
+    "l": "\"\"  Buy Price  ■ $1.00 \"\"  Sell Price  ■ $0.25 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 19,
+    "n": "Lilac",
+    "l": "\"\"  Buy Price  ■ $1.00 \"\"  Sell Price  ■ $0.25 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 20,
+    "n": "Lily of the Valley",
+    "l": "\"\"  Buy Price  ■ $1.00 \"\"  Sell Price  ■ $0.25 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 21,
+    "n": "Orange Tulip",
+    "l": "\"\"  Buy Price  ■ $1.00 \"\"  Sell Price  ■ $0.25 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 22,
+    "n": "Oxeye Daisy",
+    "l": "\"\"  Buy Price  ■ $1.00 \"\"  Sell Price  ■ $0.25 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 23,
+    "n": "Peony",
+    "l": "\"\"  Buy Price  ■ $1.00 \"\"  Sell Price  ■ $0.25 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 24,
+    "n": "Pink Petals",
+    "l": "\"\"  Buy Price  ■ $1.00 \"\"  Sell Price  ■ $0.25 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 25,
+    "n": "Pink Tulip",
+    "l": "\"\"  Buy Price  ■ $1.00 \"\"  Sell Price  ■ $0.25 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 26,
+    "n": "Pitcher Plant",
+    "l": "\"\"  Buy Price  ■ $20.75 \"\"  Sell Price  ■ $5.19 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 27,
+    "n": "Poppy",
+    "l": "\"\"  Buy Price  ■ $1.00 \"\"  Sell Price  ■ $0.25 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 28,
+    "n": "Red Tulip",
+    "l": "\"\"  Buy Price  ■ $1.00 \"\"  Sell Price  ■ $0.25 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 29,
+    "n": "Sunflower",
+    "l": "\"\"  Buy Price  ■ $1.00 \"\"  Sell Price  ■ $0.25 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 30,
+    "n": "Torchflower",
+    "l": "\"\"  Buy Price  ■ $20.75 \"\"  Sell Price  ■ $5.19 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 31,
+    "n": "Ink Sac",
+    "l": "\"\"  Buy Price  ■ $5.00 \"\"  Sell Price  ■ $1.25 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 36,
+    "n": "Player Head",
+    "l": "Balance: $115.83"
+   },
+   {
+    "s": 40,
+    "n": "Paper",
+    "l": ""
+   },
+   {
+    "s": 44,
+    "n": "Barrier",
+    "l": ""
+   }
+  ]
+ },
+ "24": {
+  "title": "Miscellaneous",
+  "items": [
+   {
+    "s": 0,
+    "n": "Anvil",
+    "l": "\"\"  Buy Price  ■ $713.32 \"\"  Sell Price  ■ $178.33 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 1,
+    "n": "Bucket of Axolotl",
+    "l": "\"\"  Buy Price  ■ $73.26 \"\"  Sell Price  ■ $18.32 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 2,
+    "n": "Bell",
+    "l": "\"\"  Buy Price  ■ $1,000.00 \"\"  Sell Price  ■ $250.00 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 3,
+    "n": "Brush",
+    "l": "\"\"  Buy Price  ■ $7.88 \"\"  Sell Price  ■ $1.97 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 4,
+    "n": "Carrot on a Stick",
+    "l": "\"\"  Buy Price  ■ $6.47 \"\"  Sell Price  ■ $1.62 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 5,
+    "n": "Cobweb",
+    "l": "\"\"  Buy Price  ■ $40.00 \"\"  Sell Price  ■ $10.00 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 6,
+    "n": "Bucket of Cod",
+    "l": "\"\"  Buy Price  ■ $79.56 \"\"  Sell Price  ■ $19.89 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 7,
+    "n": "Elytra",
+    "l": "\"\"  Buy Price  ■ $150,000.00 \"\"  Sell Price  ■ $50,000.00 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 8,
+    "n": "Ender Chest",
+    "l": "\"\"  Buy Price  ■ $4,200.12 \"\"  Sell Price  ■ $68.28 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 9,
+    "n": "Eye of Ender",
+    "l": "\"\"  Buy Price  ■ $6,000.11 \"\"  Sell Price  ■ $55.00 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 10,
+    "n": "Bottle o' Enchanting",
+    "l": "\"\"  Buy Price  ■ $107.94 \"\"  Sell Price  ■ Cannot be sold \"\"  Usage:  ╚» Left click to buy"
+   },
+   {
+    "s": 11,
+    "n": "Firework Rocket",
+    "l": "\"\"  Buy Price  ■ $950.00 \"\"  Sell Price  ■ $105.00 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 12,
+    "n": "Glow Ink Sac",
+    "l": "\"\"  Buy Price  ■ $5.50 \"\"  Sell Price  ■ $1.38 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 13,
+    "n": "Glowstone Dust",
+    "l": "\"\"  Buy Price  ■ $7.00 \"\"  Sell Price  ■ $1.75 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 14,
+    "n": "Honeycomb",
+    "l": "\"\"  Buy Price  ■ $3.15 \"\"  Sell Price  ■ $0.79 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 15,
+    "n": "Lava Bucket",
+    "l": "\"\"  Buy Price  ■ $69.62 \"\"  Sell Price  ■ $17.41 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 16,
+    "n": "Lead",
+    "l": "\"\"  Buy Price  ■ $17.33 \"\"  Sell Price  ■ $4.34 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 17,
+    "n": "Lily Pad",
+    "l": "\"\"  Buy Price  ■ $28.00 \"\"  Sell Price  ■ $7.00 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 18,
+    "n": "Lodestone",
+    "l": "\"\"  Buy Price  ■ $2,594.75 \"\"  Sell Price  ■ $340.00 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 19,
+    "n": "Empty Map",
+    "l": "\"\"  Buy Price  ■ $99.29 \"\"  Sell Price  ■ $24.83 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 20,
+    "n": "Moss Block",
+    "l": "\"\"  Buy Price  ■ $1.00 \"\"  Sell Price  ■ $0.25 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 21,
+    "n": "Name Tag",
+    "l": "\"\"  Buy Price  ■ $100.00 \"\"  Sell Price  ■ $25.00 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 22,
+    "n": "Nether Star",
+    "l": "\"\"  Buy Price  ■ $8,000.00 \"\"  Sell Price  ■ $350.00 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 23,
+    "n": "Powder Snow Bucket",
+    "l": "\"\"  Buy Price  ■ $85.21 \"\"  Sell Price  ■ $21.31 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 24,
+    "n": "Bucket of Pufferfish",
+    "l": "\"\"  Buy Price  ■ $79.56 \"\"  Sell Price  ■ $19.89 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 25,
+    "n": "Red Bed",
+    "l": "\"\"  Buy Price  ■ $94.93 \"\"  Sell Price  ■ $8.00 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 26,
+    "n": "Saddle",
+    "l": "\"\"  Buy Price  ■ $60.00 \"\"  Sell Price  ■ $15.00 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 27,
+    "n": "Bucket of Salmon",
+    "l": "\"\"  Buy Price  ■ $79.56 \"\"  Sell Price  ■ $19.89 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 28,
+    "n": "Scaffolding",
+    "l": "\"\"  Buy Price  ■ $1.33 \"\"  Sell Price  ■ $0.34 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 29,
+    "n": "Shulker Shell",
+    "l": "\"\"  Buy Price  ■ $7.00 \"\"  Sell Price  ■ $1.75 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 30,
+    "n": "Sniffer Egg",
+    "l": "\"\"  Buy Price  ■ $23.00 \"\"  Sell Price  ■ $5.75 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 31,
+    "n": "Snow",
+    "l": "\"\"  Buy Price  ■ $6.62 \"\"  Sell Price  ■ $1.66 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 32,
+    "n": "Snowball",
+    "l": "\"\"  Buy Price  ■ $3.00 \"\"  Sell Price  ■ $0.75 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 33,
+    "n": "Sponge",
+    "l": "\"\"  Buy Price  ■ $525.00 \"\"  Sell Price  ■ $131.25 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 34,
+    "n": "Spyglass",
+    "l": "\"\"  Buy Price  ■ $34.46 \"\"  Sell Price  ■ $8.62 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 35,
+    "n": "Bucket of Tadpole",
+    "l": "\"\"  Buy Price  ■ $73.26 \"\"  Sell Price  ■ $18.32 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 36,
+    "n": "Totem of Undying",
+    "l": "\"\"  Buy Price  ■ $10,000.00 \"\"  Sell Price  ■ $500.00 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 37,
+    "n": "Trident",
+    "l": "\"\"  Buy Price  ■ $300.00 \"\"  Sell Price  ■ $45.00 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 38,
+    "n": "Bucket of Tropical Fish",
+    "l": "\"\"  Buy Price  ■ $79.56 \"\"  Sell Price  ■ $19.89 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 39,
+    "n": "Turtle Egg",
+    "l": "\"\"  Buy Price  ■ $15.00 \"\"  Sell Price  ■ $3.75 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 40,
+    "n": "Warped Fungus on a Stick",
+    "l": "\"\"  Buy Price  ■ $23.02 \"\"  Sell Price  ■ $5.76 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 41,
+    "n": "Water Bucket",
+    "l": "\"\"  Buy Price  ■ $69.57 \"\"  Sell Price  ■ $17.40 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 42,
+    "n": "Book and Quill",
+    "l": "\"\"  Buy Price  ■ $48.95 \"\"  Sell Price  ■ $12.24 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 43,
+    "n": "Banner Pattern",
+    "l": "\"\"  Buy Price  ■ $630.12 \"\"  Sell Price  ■ $157.53 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 44,
+    "n": "Banner Pattern",
+    "l": "\"\"  Buy Price  ■ $1.17 \"\"  Sell Price  ■ $0.30 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 45,
+    "n": "Player Head",
+    "l": "Balance: $115.83"
+   },
+   {
+    "s": 49,
+    "n": "Paper",
+    "l": ""
+   },
+   {
+    "s": 50,
+    "n": "Arrow",
+    "l": ""
+   },
+   {
+    "s": 53,
+    "n": "Barrier",
+    "l": ""
+   }
+  ]
+ },
+ "25": {
+  "title": "Food",
+  "items": [
+   {
+    "s": 0,
+    "n": "Apple",
+    "l": "\"\"  Buy Price  ■ $10.00 \"\"  Sell Price  ■ $2.50 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 1,
+    "n": "Bread",
+    "l": "\"\"  Buy Price  ■ $15.75 \"\"  Sell Price  ■ $3.94 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 2,
+    "n": "Cake",
+    "l": "\"\"  Buy Price  ■ $240.68 \"\"  Sell Price  ■ $60.17 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 3,
+    "n": "Cooked Salmon",
+    "l": "\"\"  Buy Price  ■ $6.30 \"\"  Sell Price  ■ $1.58 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 4,
+    "n": "Cookie",
+    "l": "\"\"  Buy Price  ■ $2.10 \"\"  Sell Price  ■ $0.53 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 5,
+    "n": "Glistering Melon Slice",
+    "l": "\"\"  Buy Price  ■ $27.51 \"\"  Sell Price  ■ $6.88 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 6,
+    "n": "Glow Berries",
+    "l": "\"\"  Buy Price  ■ $1.00 \"\"  Sell Price  ■ $0.25 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 7,
+    "n": "Golden Carrot",
+    "l": "\"\"  Buy Price  ■ $31.71 \"\"  Sell Price  ■ $7.93 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 8,
+    "n": "Honey Bottle",
+    "l": "\"\"  Buy Price  ■ $7.94 \"\"  Sell Price  ■ $1.99 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 9,
+    "n": "Baked Potato",
+    "l": "\"\"  Buy Price  ■ $5.25 \"\"  Sell Price  ■ $1.32 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 10,
+    "n": "Steak",
+    "l": "\"\"  Buy Price  ■ $6.30 \"\"  Sell Price  ■ $1.58 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 11,
+    "n": "Cooked Chicken",
+    "l": "\"\"  Buy Price  ■ $6.30 \"\"  Sell Price  ■ $1.58 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 12,
+    "n": "Cooked Mutton",
+    "l": "\"\"  Buy Price  ■ $6.30 \"\"  Sell Price  ■ $1.58 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 13,
+    "n": "Cooked Porkchop",
+    "l": "\"\"  Buy Price  ■ $6.30 \"\"  Sell Price  ■ $1.58 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 14,
+    "n": "Cooked Rabbit",
+    "l": "\"\"  Buy Price  ■ $6.30 \"\"  Sell Price  ■ $1.58 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 15,
+    "n": "Raw Beef",
+    "l": "\"\"  Buy Price  ■ $6.00 \"\"  Sell Price  ■ $1.50 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 16,
+    "n": "Raw Chicken",
+    "l": "\"\"  Buy Price  ■ $6.00 \"\"  Sell Price  ■ $1.50 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 17,
+    "n": "Raw Mutton",
+    "l": "\"\"  Buy Price  ■ $6.00 \"\"  Sell Price  ■ $1.50 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 18,
+    "n": "Raw Porkchop",
+    "l": "\"\"  Buy Price  ■ $6.00 \"\"  Sell Price  ■ $1.50 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 19,
+    "n": "Raw Rabbit",
+    "l": "\"\"  Buy Price  ■ $6.00 \"\"  Sell Price  ■ $1.50 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 20,
+    "n": "Beetroot Soup",
+    "l": "\"\"  Buy Price  ■ $38.41 \"\"  Sell Price  ■ $9.61 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 27,
+    "n": "Player Head",
+    "l": "Balance: $115.83"
+   },
+   {
+    "s": 31,
+    "n": "Paper",
+    "l": ""
+   },
+   {
+    "s": 35,
+    "n": "Barrier",
+    "l": ""
+   }
+  ]
+ },
+ "29": {
+  "title": "Potions + Tipped Arrows",
+  "items": [
+   {
+    "s": 0,
+    "n": "Splash Potion",
+    "l": "\"\"  Buy Price  ■ $33.41 \"\"  Sell Price  ■ $8.36 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 1,
+    "n": "Splash Potion",
+    "l": "\"\"  Buy Price  ■ $45.25 \"\"  Sell Price  ■ $11.32 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 2,
+    "n": "Splash Potion",
+    "l": "\"\"  Buy Price  ■ $58.60 \"\"  Sell Price  ■ $14.65 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 3,
+    "n": "Splash Potion",
+    "l": "\"\"  Buy Price  ■ $79.10 \"\"  Sell Price  ■ $19.78 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 4,
+    "n": "Splash Potion",
+    "l": "\"\"  Buy Price  ■ $64.03 \"\"  Sell Price  ■ $16.01 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 5,
+    "n": "Splash Potion",
+    "l": "\"\"  Buy Price  ■ $32.11 \"\"  Sell Price  ■ $8.03 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 6,
+    "n": "Splash Potion",
+    "l": "\"\"  Buy Price  ■ $74.74 \"\"  Sell Price  ■ $18.69 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 7,
+    "n": "Splash Potion",
+    "l": "\"\"  Buy Price  ■ $35.80 \"\"  Sell Price  ■ $8.96 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 8,
+    "n": "Splash Potion",
+    "l": "\"\"  Buy Price  ■ $26.45 \"\"  Sell Price  ■ $6.61 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 9,
+    "n": "Splash Potion",
+    "l": "\"\"  Buy Price  ■ $23.20 \"\"  Sell Price  ■ $5.81 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 10,
+    "n": "Splash Potion",
+    "l": "\"\"  Buy Price  ■ $30.81 \"\"  Sell Price  ■ $7.70 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 11,
+    "n": "Splash Potion",
+    "l": "\"\"  Buy Price  ■ $31.30 \"\"  Sell Price  ■ $7.83 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 12,
+    "n": "Splash Potion",
+    "l": "\"\"  Buy Price  ■ $41.05 \"\"  Sell Price  ■ $10.27 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 13,
+    "n": "Splash Potion",
+    "l": "\"\"  Buy Price  ■ $89.49 \"\"  Sell Price  ■ $22.38 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 14,
+    "n": "Splash Potion",
+    "l": "\"\"  Buy Price  ■ $73.52 \"\"  Sell Price  ■ $18.39 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 15,
+    "n": "Splash Potion",
+    "l": "\"\"  Buy Price  ■ $39.67 \"\"  Sell Price  ■ $9.92 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 16,
+    "n": "Splash Potion",
+    "l": "\"\"  Buy Price  ■ $84.88 \"\"  Sell Price  ■ $21.23 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 17,
+    "n": "Splash Potion",
+    "l": "\"\"  Buy Price  ■ $43.60 \"\"  Sell Price  ■ $10.90 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 18,
+    "n": "Splash Potion",
+    "l": "\"\"  Buy Price  ■ $33.68 \"\"  Sell Price  ■ $8.43 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 19,
+    "n": "Splash Potion",
+    "l": "\"\"  Buy Price  ■ $30.23 \"\"  Sell Price  ■ $7.57 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 20,
+    "n": "Splash Potion",
+    "l": "\"\"  Buy Price  ■ $38.31 \"\"  Sell Price  ■ $9.58 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 21,
+    "n": "Splash Potion",
+    "l": "\"\"  Buy Price  ■ $38.82 \"\"  Sell Price  ■ $9.71 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 22,
+    "n": "Splash Potion",
+    "l": "\"\"  Buy Price  ■ $84.81 \"\"  Sell Price  ■ $21.21 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 23,
+    "n": "Splash Potion",
+    "l": "\"\"  Buy Price  ■ $98.98 \"\"  Sell Price  ■ $24.75 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 24,
+    "n": "Splash Potion",
+    "l": "\"\"  Buy Price  ■ $70.89 \"\"  Sell Price  ■ $17.72 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 25,
+    "n": "Splash Potion",
+    "l": "\"\"  Buy Price  ■ $116.08 \"\"  Sell Price  ■ $29.03 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 26,
+    "n": "Splash Potion",
+    "l": "\"\"  Buy Price  ■ $64.89 \"\"  Sell Price  ■ $16.23 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 27,
+    "n": "Splash Potion",
+    "l": "\"\"  Buy Price  ■ $61.44 \"\"  Sell Price  ■ $15.36 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 28,
+    "n": "Tipped Arrow",
+    "l": "\"\"  Buy Price  ■ $24.90 \"\"  Sell Price  ■ $6.23 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 29,
+    "n": "Tipped Arrow",
+    "l": "\"\"  Buy Price  ■ $26.54 \"\"  Sell Price  ■ $6.64 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 30,
+    "n": "Tipped Arrow",
+    "l": "\"\"  Buy Price  ■ $28.40 \"\"  Sell Price  ■ $7.11 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 31,
+    "n": "Tipped Arrow",
+    "l": "\"\"  Buy Price  ■ $31.26 \"\"  Sell Price  ■ $7.82 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 32,
+    "n": "Tipped Arrow",
+    "l": "\"\"  Buy Price  ■ $25.97 \"\"  Sell Price  ■ $6.50 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 33,
+    "n": "Tipped Arrow",
+    "l": "\"\"  Buy Price  ■ $32.69 \"\"  Sell Price  ■ $8.18 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 34,
+    "n": "Tipped Arrow",
+    "l": "\"\"  Buy Price  ■ $30.47 \"\"  Sell Price  ■ $7.62 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 35,
+    "n": "Tipped Arrow",
+    "l": "\"\"  Buy Price  ■ $25.77 \"\"  Sell Price  ■ $6.45 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 36,
+    "n": "Tipped Arrow",
+    "l": "\"\"  Buy Price  ■ $32.06 \"\"  Sell Price  ■ $8.02 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 37,
+    "n": "Tipped Arrow",
+    "l": "\"\"  Buy Price  ■ $26.31 \"\"  Sell Price  ■ $6.58 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 38,
+    "n": "Tipped Arrow",
+    "l": "\"\"  Buy Price  ■ $24.93 \"\"  Sell Price  ■ $6.23 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 39,
+    "n": "Tipped Arrow",
+    "l": "\"\"  Buy Price  ■ $24.46 \"\"  Sell Price  ■ $6.12 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 40,
+    "n": "Tipped Arrow",
+    "l": "\"\"  Buy Price  ■ $25.58 \"\"  Sell Price  ■ $6.39 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 41,
+    "n": "Tipped Arrow",
+    "l": "\"\"  Buy Price  ■ $25.66 \"\"  Sell Price  ■ $6.42 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 42,
+    "n": "Tipped Arrow",
+    "l": "\"\"  Buy Price  ■ $29.16 \"\"  Sell Price  ■ $7.29 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 43,
+    "n": "Tipped Arrow",
+    "l": "\"\"  Buy Price  ■ $24.71 \"\"  Sell Price  ■ $6.19 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 44,
+    "n": "Tipped Arrow",
+    "l": "\"\"  Buy Price  ■ $30.65 \"\"  Sell Price  ■ $7.67 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 45,
+    "n": "Player Head",
+    "l": "Balance: $115.83"
+   },
+   {
+    "s": 49,
+    "n": "Paper",
+    "l": ""
+   },
+   {
+    "s": 50,
+    "n": "Arrow",
+    "l": ""
+   },
+   {
+    "s": 53,
+    "n": "Barrier",
+    "l": ""
+   }
+  ]
+ },
+ "30": {
+  "title": "Decoration",
+  "items": [
+   {
+    "s": 0,
+    "n": "Chain",
+    "l": "\"\"  Buy Price  ■ $26.71 \"\"  Sell Price  ■ $6.68 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 1,
+    "n": "Flower Pot",
+    "l": "\"\"  Buy Price  ■ $69.46 \"\"  Sell Price  ■ $17.37 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 2,
+    "n": "Honeycomb Block",
+    "l": "\"\"  Buy Price  ■ $13.23 \"\"  Sell Price  ■ $3.31 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 3,
+    "n": "Jack o'Lantern",
+    "l": "\"\"  Buy Price  ■ $11.15 \"\"  Sell Price  ■ $2.79 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 4,
+    "n": "Pointed Dripstone",
+    "l": "\"\"  Buy Price  ■ $1.00 \"\"  Sell Price  ■ $0.25 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 5,
+    "n": "Spore Blossom",
+    "l": "\"\"  Buy Price  ■ $3.50 \"\"  Sell Price  ■ $0.88 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 6,
+    "n": "Black Candle",
+    "l": "\"\"  Buy Price  ■ $16.71 \"\"  Sell Price  ■ $4.18 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 7,
+    "n": "Blue Candle",
+    "l": "\"\"  Buy Price  ■ $12.30 \"\"  Sell Price  ■ $3.08 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 8,
+    "n": "Brown Candle",
+    "l": "\"\"  Buy Price  ■ $17.81 \"\"  Sell Price  ■ $4.46 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 9,
+    "n": "Candle",
+    "l": "\"\"  Buy Price  ■ $10.66 \"\"  Sell Price  ■ $2.67 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 10,
+    "n": "Cyan Candle",
+    "l": "\"\"  Buy Price  ■ $11.83 \"\"  Sell Price  ■ $2.96 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 11,
+    "n": "Gray Candle",
+    "l": "\"\"  Buy Price  ■ $14.99 \"\"  Sell Price  ■ $3.75 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 12,
+    "n": "Green Candle",
+    "l": "\"\"  Buy Price  ■ $11.31 \"\"  Sell Price  ■ $2.83 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 13,
+    "n": "Light Blue Candle",
+    "l": "\"\"  Buy Price  ■ $12.30 \"\"  Sell Price  ■ $3.08 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 14,
+    "n": "Light Gray Candle",
+    "l": "\"\"  Buy Price  ■ $12.30 \"\"  Sell Price  ■ $3.08 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 15,
+    "n": "Lime Candle",
+    "l": "\"\"  Buy Price  ■ $17.81 \"\"  Sell Price  ■ $4.46 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 16,
+    "n": "Magenta Candle",
+    "l": "\"\"  Buy Price  ■ $12.30 \"\"  Sell Price  ■ $3.08 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 17,
+    "n": "Orange Candle",
+    "l": "\"\"  Buy Price  ■ $12.30 \"\"  Sell Price  ■ $3.08 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 18,
+    "n": "Pink Candle",
+    "l": "\"\"  Buy Price  ■ $12.30 \"\"  Sell Price  ■ $3.08 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 19,
+    "n": "Purple Candle",
+    "l": "\"\"  Buy Price  ■ $12.35 \"\"  Sell Price  ■ $3.09 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 20,
+    "n": "Red Candle",
+    "l": "\"\"  Buy Price  ■ $12.30 \"\"  Sell Price  ■ $3.08 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 21,
+    "n": "White Candle",
+    "l": "\"\"  Buy Price  ■ $12.90 \"\"  Sell Price  ■ $3.23 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 22,
+    "n": "Yellow Candle",
+    "l": "\"\"  Buy Price  ■ $11.93 \"\"  Sell Price  ■ $2.99 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 23,
+    "n": "Brain Coral",
+    "l": "\"\"  Buy Price  ■ $5.00 \"\"  Sell Price  ■ $1.25 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 24,
+    "n": "Brain Coral Block",
+    "l": "\"\"  Buy Price  ■ $16.00 \"\"  Sell Price  ■ $4.00 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 25,
+    "n": "Brain Coral Fan",
+    "l": "\"\"  Buy Price  ■ $3.00 \"\"  Sell Price  ■ $0.75 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 26,
+    "n": "Bubble Coral",
+    "l": "\"\"  Buy Price  ■ $5.00 \"\"  Sell Price  ■ $1.25 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 27,
+    "n": "Bubble Coral Block",
+    "l": "\"\"  Buy Price  ■ $16.00 \"\"  Sell Price  ■ $4.00 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 28,
+    "n": "Bubble Coral Fan",
+    "l": "\"\"  Buy Price  ■ $3.00 \"\"  Sell Price  ■ $0.75 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 29,
+    "n": "Dead Brain Coral",
+    "l": "\"\"  Buy Price  ■ $5.00 \"\"  Sell Price  ■ $1.25 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 30,
+    "n": "Dead Brain Coral Block",
+    "l": "\"\"  Buy Price  ■ $16.00 \"\"  Sell Price  ■ $4.00 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 31,
+    "n": "Dead Brain Coral Fan",
+    "l": "\"\"  Buy Price  ■ $3.00 \"\"  Sell Price  ■ $0.75 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 32,
+    "n": "Dead Bubble Coral",
+    "l": "\"\"  Buy Price  ■ $5.00 \"\"  Sell Price  ■ $1.25 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 33,
+    "n": "Dead Bubble Coral Block",
+    "l": "\"\"  Buy Price  ■ $16.00 \"\"  Sell Price  ■ $4.00 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 34,
+    "n": "Dead Bubble Coral Fan",
+    "l": "\"\"  Buy Price  ■ $3.00 \"\"  Sell Price  ■ $0.75 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 35,
+    "n": "Dead Fire Coral",
+    "l": "\"\"  Buy Price  ■ $5.00 \"\"  Sell Price  ■ $1.25 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 36,
+    "n": "Dead Fire Coral Block",
+    "l": "\"\"  Buy Price  ■ $16.00 \"\"  Sell Price  ■ $4.00 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 37,
+    "n": "Dead Fire Coral Fan",
+    "l": "\"\"  Buy Price  ■ $3.00 \"\"  Sell Price  ■ $0.75 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 38,
+    "n": "Dead Horn Coral",
+    "l": "\"\"  Buy Price  ■ $5.00 \"\"  Sell Price  ■ $1.25 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 39,
+    "n": "Dead Horn Coral Block",
+    "l": "\"\"  Buy Price  ■ $16.00 \"\"  Sell Price  ■ $4.00 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 40,
+    "n": "Dead Horn Coral Fan",
+    "l": "\"\"  Buy Price  ■ $3.00 \"\"  Sell Price  ■ $0.75 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 41,
+    "n": "Dead Tube Coral",
+    "l": "\"\"  Buy Price  ■ $5.00 \"\"  Sell Price  ■ $1.25 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 42,
+    "n": "Dead Tube Coral Block",
+    "l": "\"\"  Buy Price  ■ $16.00 \"\"  Sell Price  ■ $4.00 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 43,
+    "n": "Dead Tube Coral Fan",
+    "l": "\"\"  Buy Price  ■ $3.00 \"\"  Sell Price  ■ $0.75 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 44,
+    "n": "Fire Coral",
+    "l": "\"\"  Buy Price  ■ $5.00 \"\"  Sell Price  ■ $1.25 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 45,
+    "n": "Player Head",
+    "l": "Balance: $115.83"
+   },
+   {
+    "s": 49,
+    "n": "Paper",
+    "l": ""
+   },
+   {
+    "s": 50,
+    "n": "Arrow",
+    "l": ""
+   },
+   {
+    "s": 53,
+    "n": "Barrier",
+    "l": ""
+   }
+  ]
+ },
+ "31": {
+  "title": "Spawners",
+  "items": [
+   {
+    "s": 0,
+    "n": "Monster Spawner",
+    "l": "\"\"  Buy Price  ■ $225,000.00 \"\"  Sell Price  ■ Cannot be sold \"\"  Usage:  ╚» Left click to buy"
+   },
+   {
+    "s": 1,
+    "n": "Monster Spawner",
+    "l": "\"\"  Buy Price  ■ $150,000.00 \"\"  Sell Price  ■ Cannot be sold \"\"  Usage:  ╚» Left click to buy"
+   },
+   {
+    "s": 2,
+    "n": "Monster Spawner",
+    "l": "\"\"  Buy Price  ■ $10,000.00 \"\"  Sell Price  ■ Cannot be sold \"\"  Usage:  ╚» Left click to buy"
+   },
+   {
+    "s": 3,
+    "n": "Monster Spawner",
+    "l": "\"\"  Buy Price  ■ $125,000.00 \"\"  Sell Price  ■ Cannot be sold \"\"  Usage:  ╚» Left click to buy"
+   },
+   {
+    "s": 4,
+    "n": "Monster Spawner",
+    "l": "\"\"  Buy Price  ■ $100,000.00 \"\"  Sell Price  ■ Cannot be sold \"\"  Usage:  ╚» Left click to buy"
+   },
+   {
+    "s": 5,
+    "n": "Monster Spawner",
+    "l": "\"\"  Buy Price  ■ $100,000.00 \"\"  Sell Price  ■ Cannot be sold \"\"  Usage:  ╚» Left click to buy"
+   },
+   {
+    "s": 6,
+    "n": "Monster Spawner",
+    "l": "\"\"  Buy Price  ■ $50,000.00 \"\"  Sell Price  ■ Cannot be sold \"\"  Usage:  ╚» Left click to buy"
+   },
+   {
+    "s": 7,
+    "n": "Monster Spawner",
+    "l": "\"\"  Buy Price  ■ $25,000.00 \"\"  Sell Price  ■ Cannot be sold \"\"  Usage:  ╚» Left click to buy"
+   },
+   {
+    "s": 8,
+    "n": "Monster Spawner",
+    "l": "\"\"  Buy Price  ■ $50,000.00 \"\"  Sell Price  ■ Cannot be sold \"\"  Usage:  ╚» Left click to buy"
+   },
+   {
+    "s": 9,
+    "n": "Monster Spawner",
+    "l": "\"\"  Buy Price  ■ $15,000.00 \"\"  Sell Price  ■ Cannot be sold \"\"  Usage:  ╚» Left click to buy"
+   },
+   {
+    "s": 10,
+    "n": "Monster Spawner",
+    "l": "\"\"  Buy Price  ■ $10,000.00 \"\"  Sell Price  ■ Cannot be sold \"\"  Usage:  ╚» Left click to buy"
+   },
+   {
+    "s": 11,
+    "n": "Monster Spawner",
+    "l": "\"\"  Buy Price  ■ $100,000.00 \"\"  Sell Price  ■ Cannot be sold \"\"  Usage:  ╚» Left click to buy"
+   },
+   {
+    "s": 12,
+    "n": "Monster Spawner",
+    "l": "\"\"  Buy Price  ■ $150,000.00 \"\"  Sell Price  ■ Cannot be sold \"\"  Usage:  ╚» Left click to buy"
+   },
+   {
+    "s": 13,
+    "n": "Monster Spawner",
+    "l": "\"\"  Buy Price  ■ $175,000.00 \"\"  Sell Price  ■ Cannot be sold \"\"  Usage:  ╚» Left click to buy"
+   },
+   {
+    "s": 14,
+    "n": "Monster Spawner",
+    "l": "\"\"  Buy Price  ■ $395,000.00 \"\"  Sell Price  ■ Cannot be sold \"\"  Usage:  ╚» Left click to buy"
+   },
+   {
+    "s": 15,
+    "n": "Monster Spawner",
+    "l": "\"\"  Buy Price  ■ $100,000.00 \"\"  Sell Price  ■ Cannot be sold \"\"  Usage:  ╚» Left click to buy"
+   },
+   {
+    "s": 16,
+    "n": "Monster Spawner",
+    "l": "\"\"  Buy Price  ■ $120,000.00 \"\"  Sell Price  ■ Cannot be sold \"\"  Usage:  ╚» Left click to buy"
+   },
+   {
+    "s": 17,
+    "n": "Monster Spawner",
+    "l": "\"\"  Buy Price  ■ $65,000.00 \"\"  Sell Price  ■ Cannot be sold \"\"  Usage:  ╚» Left click to buy"
+   },
+   {
+    "s": 18,
+    "n": "Monster Spawner",
+    "l": "\"\"  Buy Price  ■ $125,000.00 \"\"  Sell Price  ■ Cannot be sold \"\"  Usage:  ╚» Left click to buy"
+   },
+   {
+    "s": 19,
+    "n": "Monster Spawner",
+    "l": "\"\"  Buy Price  ■ $1,000,000.00 \"\"  Sell Price  ■ Cannot be sold \"\"  Usage:  ╚» Left click to buy"
+   },
+   {
+    "s": 20,
+    "n": "Monster Spawner",
+    "l": "\"\"  Buy Price  ■ $500,000.00 \"\"  Sell Price  ■ Cannot be sold \"\"  Usage:  ╚» Left click to buy"
+   },
+   {
+    "s": 21,
+    "n": "Monster Spawner",
+    "l": "\"\"  Buy Price  ■ $125,000.00 \"\"  Sell Price  ■ Cannot be sold \"\"  Usage:  ╚» Left click to buy"
+   },
+   {
+    "s": 22,
+    "n": "Monster Spawner",
+    "l": "\"\"  Buy Price  ■ $50,000.00 \"\"  Sell Price  ■ Cannot be sold \"\"  Usage:  ╚» Left click to buy"
+   },
+   {
+    "s": 23,
+    "n": "Monster Spawner",
+    "l": "\"\"  Buy Price  ■ $30,000.00 \"\"  Sell Price  ■ Cannot be sold \"\"  Usage:  ╚» Left click to buy"
+   },
+   {
+    "s": 24,
+    "n": "Monster Spawner",
+    "l": "\"\"  Buy Price  ■ $250,000.00 \"\"  Sell Price  ■ Cannot be sold \"\"  Usage:  ╚» Left click to buy"
+   },
+   {
+    "s": 25,
+    "n": "Monster Spawner",
+    "l": "\"\"  Buy Price  ■ $2,000,000.00 \"\"  Sell Price  ■ Cannot be sold \"\"  Usage:  ╚» Left click to buy"
+   },
+   {
+    "s": 26,
+    "n": "Monster Spawner",
+    "l": "\"\"  Buy Price  ■ $45,000.00 \"\"  Sell Price  ■ Cannot be sold \"\"  Usage:  ╚» Left click to buy"
+   },
+   {
+    "s": 27,
+    "n": "Monster Spawner",
+    "l": "\"\"  Buy Price  ■ $45,000.00 \"\"  Sell Price  ■ Cannot be sold \"\"  Usage:  ╚» Left click to buy"
+   },
+   {
+    "s": 28,
+    "n": "Monster Spawner",
+    "l": "\"\"  Buy Price  ■ $500,000.00 \"\"  Sell Price  ■ Cannot be sold \"\"  Usage:  ╚» Left click to buy"
+   },
+   {
+    "s": 29,
+    "n": "Monster Spawner",
+    "l": "\"\"  Buy Price  ■ $125,000.00 \"\"  Sell Price  ■ Cannot be sold \"\"  Usage:  ╚» Left click to buy"
+   },
+   {
+    "s": 30,
+    "n": "Monster Spawner",
+    "l": "\"\"  Buy Price  ■ $550,000.00 \"\"  Sell Price  ■ Cannot be sold \"\"  Usage:  ╚» Left click to buy"
+   },
+   {
+    "s": 31,
+    "n": "Monster Spawner",
+    "l": "\"\"  Buy Price  ■ $45,000.00 \"\"  Sell Price  ■ Cannot be sold \"\"  Usage:  ╚» Left click to buy"
+   },
+   {
+    "s": 32,
+    "n": "Monster Spawner",
+    "l": "\"\"  Buy Price  ■ $45,000.00 \"\"  Sell Price  ■ Cannot be sold \"\"  Usage:  ╚» Left click to buy"
+   },
+   {
+    "s": 33,
+    "n": "Monster Spawner",
+    "l": "\"\"  Buy Price  ■ $100,000.00 \"\"  Sell Price  ■ Cannot be sold \"\"  Usage:  ╚» Left click to buy"
+   },
+   {
+    "s": 34,
+    "n": "Monster Spawner",
+    "l": "\"\"  Buy Price  ■ $45,000.00 \"\"  Sell Price  ■ Cannot be sold \"\"  Usage:  ╚» Left click to buy"
+   },
+   {
+    "s": 35,
+    "n": "Monster Spawner",
+    "l": "\"\"  Buy Price  ■ $500,000.00 \"\"  Sell Price  ■ Cannot be sold \"\"  Usage:  ╚» Left click to buy"
+   },
+   {
+    "s": 36,
+    "n": "Monster Spawner",
+    "l": "\"\"  Buy Price  ■ $250,000.00 \"\"  Sell Price  ■ Cannot be sold \"\"  Usage:  ╚» Left click to buy"
+   },
+   {
+    "s": 37,
+    "n": "Monster Spawner",
+    "l": "\"\"  Buy Price  ■ $120,000.00 \"\"  Sell Price  ■ Cannot be sold \"\"  Usage:  ╚» Left click to buy"
+   },
+   {
+    "s": 38,
+    "n": "Monster Spawner",
+    "l": "\"\"  Buy Price  ■ $120,000.00 \"\"  Sell Price  ■ Cannot be sold \"\"  Usage:  ╚» Left click to buy"
+   },
+   {
+    "s": 45,
+    "n": "Player Head",
+    "l": "Balance: $115.83"
+   },
+   {
+    "s": 49,
+    "n": "Paper",
+    "l": ""
+   },
+   {
+    "s": 53,
+    "n": "Barrier",
+    "l": ""
+   }
+  ]
+ },
+ "32": {
+  "title": "Redstone",
+  "items": [
+   {
+    "s": 0,
+    "n": "Cauldron",
+    "l": "\"\"  Buy Price  ■ $110.25 \"\"  Sell Price  ■ $27.57 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 1,
+    "n": "Daylight Detector",
+    "l": "\"\"  Buy Price  ■ $125.25 \"\"  Sell Price  ■ $31.32 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 2,
+    "n": "Dispenser",
+    "l": "\"\"  Buy Price  ■ $34.94 \"\"  Sell Price  ■ $8.74 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 3,
+    "n": "Dropper",
+    "l": "\"\"  Buy Price  ■ $10.52 \"\"  Sell Price  ■ $2.63 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 4,
+    "n": "Hopper",
+    "l": "\"\"  Buy Price  ■ $116.74 \"\"  Sell Price  ■ $29.19 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 5,
+    "n": "Iron Door",
+    "l": "\"\"  Buy Price  ■ $22.05 \"\"  Sell Price  ■ $5.52 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 6,
+    "n": "Jukebox",
+    "l": "\"\"  Buy Price  ■ $888.18 \"\"  Sell Price  ■ $222.05 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 7,
+    "n": "Lever",
+    "l": "\"\"  Buy Price  ■ $1.12 \"\"  Sell Price  ■ $0.28 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 8,
+    "n": "Lightning Rod",
+    "l": "\"\"  Buy Price  ■ $49.62 \"\"  Sell Price  ■ $12.41 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 9,
+    "n": "Note Block",
+    "l": "\"\"  Buy Price  ■ $11.69 \"\"  Sell Price  ■ $2.93 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 10,
+    "n": "Observer",
+    "l": "\"\"  Buy Price  ■ $50.04 \"\"  Sell Price  ■ $12.51 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 11,
+    "n": "Redstone Lamp",
+    "l": "\"\"  Buy Price  ■ $52.92 \"\"  Sell Price  ■ $13.23 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 12,
+    "n": "Redstone Torch",
+    "l": "\"\"  Buy Price  ■ $5.92 \"\"  Sell Price  ■ $1.48 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 13,
+    "n": "Respawn Anchor",
+    "l": "\"\"  Buy Price  ■ $486.36 \"\"  Sell Price  ■ $121.59 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 14,
+    "n": "Target",
+    "l": "\"\"  Buy Price  ■ $71.67 \"\"  Sell Price  ■ $17.92 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 15,
+    "n": "Tripwire Hook",
+    "l": "\"\"  Buy Price  ■ $11.62 \"\"  Sell Price  ■ $2.91 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 16,
+    "n": "Redstone Comparator",
+    "l": "\"\"  Buy Price  ■ $55.62 \"\"  Sell Price  ■ $13.91 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 17,
+    "n": "Redstone Repeater",
+    "l": "\"\"  Buy Price  ■ $20.19 \"\"  Sell Price  ■ $5.05 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 18,
+    "n": "Cherry Button",
+    "l": "\"\"  Buy Price  ■ $0.78 \"\"  Sell Price  ■ $0.20 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 19,
+    "n": "Oak Button",
+    "l": "\"\"  Buy Price  ■ $0.78 \"\"  Sell Price  ■ $0.20 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 20,
+    "n": "Stone Button",
+    "l": "\"\"  Buy Price  ■ $0.75 \"\"  Sell Price  ■ $0.19 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 21,
+    "n": "Piston",
+    "l": "\"\"  Buy Price  ■ $32.74 \"\"  Sell Price  ■ $8.19 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 22,
+    "n": "Sticky Piston",
+    "l": "\"\"  Buy Price  ■ $39.63 \"\"  Sell Price  ■ $9.91 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 23,
+    "n": "Cherry Pressure Plate",
+    "l": "\"\"  Buy Price  ■ $1.55 \"\"  Sell Price  ■ $0.39 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 24,
+    "n": "Oak Pressure Plate",
+    "l": "\"\"  Buy Price  ■ $1.55 \"\"  Sell Price  ■ $0.39 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 25,
+    "n": "Stone Pressure Plate",
+    "l": "\"\"  Buy Price  ■ $1.50 \"\"  Sell Price  ■ $0.38 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 26,
+    "n": "Light Weighted Pressure Plate",
+    "l": "\"\"  Buy Price  ■ $66.15 \"\"  Sell Price  ■ $16.54 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 27,
+    "n": "Heavy Weighted Pressure Plate",
+    "l": "\"\"  Buy Price  ■ $44.10 \"\"  Sell Price  ■ $11.03 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 28,
+    "n": "Calibrated Sculk Sensor",
+    "l": "\"\"  Buy Price  ■ $16.74 \"\"  Sell Price  ■ $4.19 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 29,
+    "n": "Sculk Sensor",
+    "l": "\"\"  Buy Price  ■ $125.00 \"\"  Sell Price  ■ $31.25 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 30,
+    "n": "Cherry Trapdoor",
+    "l": "\"\"  Buy Price  ■ $2.32 \"\"  Sell Price  ■ $0.58 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 31,
+    "n": "Oak Trapdoor",
+    "l": "\"\"  Buy Price  ■ $2.32 \"\"  Sell Price  ■ $0.58 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 32,
+    "n": "Iron Trapdoor",
+    "l": "\"\"  Buy Price  ■ $88.20 \"\"  Sell Price  ■ $22.05 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 36,
+    "n": "Player Head",
+    "l": "Balance: $115.83"
+   },
+   {
+    "s": 40,
+    "n": "Paper",
+    "l": ""
+   },
+   {
+    "s": 44,
+    "n": "Barrier",
+    "l": ""
+   }
+  ]
+ },
+ "33": {
+  "title": "Ores",
+  "items": [
+   {
+    "s": 0,
+    "n": "Block of Amethyst",
+    "l": "\"\"  Buy Price  ■ $15.90 \"\"  Sell Price  ■ $4.00 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 1,
+    "n": "Amethyst Shard",
+    "l": "\"\"  Buy Price  ■ $15.20 \"\"  Sell Price  ■ $3.80 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 2,
+    "n": "Ancient Debris",
+    "l": "\"\"  Buy Price  ■ $6,083.50 \"\"  Sell Price  ■ $1,520.90 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 3,
+    "n": "Coal",
+    "l": "\"\"  Buy Price  ■ $241.50 \"\"  Sell Price  ■ $60.40 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 4,
+    "n": "Block of Coal",
+    "l": "\"\"  Buy Price  ■ $2,282.20 \"\"  Sell Price  ■ $570.60 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 5,
+    "n": "Block of Copper",
+    "l": "\"\"  Buy Price  ■ $760.70 \"\"  Sell Price  ■ $1.20 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 6,
+    "n": "Copper Ingot",
+    "l": "\"\"  Buy Price  ■ $181.10 \"\"  Sell Price  ■ $1.30 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 7,
+    "n": "Copper Ore",
+    "l": "\"\"  Buy Price  ■ $172.50 \"\"  Sell Price  ■ Cannot be sold \"\"  Usage:  ╚» Left click to buy"
+   },
+   {
+    "s": 8,
+    "n": "Diamond",
+    "l": "\"\"  Buy Price  ■ $9,660.00 \"\"  Sell Price  ■ $2,415.00 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 9,
+    "n": "Block of Diamond",
+    "l": "\"\"  Buy Price  ■ $91,287.00 \"\"  Sell Price  ■ $22,821.70 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 10,
+    "n": "Emerald",
+    "l": "\"\"  Buy Price  ■ $1,635.60 \"\"  Sell Price  ■ $408.90 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 11,
+    "n": "Block of Emerald",
+    "l": "\"\"  Buy Price  ■ $15,456.10 \"\"  Sell Price  ■ $3,864.10 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 12,
+    "n": "Block of Gold",
+    "l": "\"\"  Buy Price  ■ $3,423.30 \"\"  Sell Price  ■ $855.80 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 13,
+    "n": "Gold Ingot",
+    "l": "\"\"  Buy Price  ■ $362.20 \"\"  Sell Price  ■ $90.60 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 14,
+    "n": "Block of Iron",
+    "l": "\"\"  Buy Price  ■ $2,282.20 \"\"  Sell Price  ■ $570.60 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 15,
+    "n": "Iron Ingot",
+    "l": "\"\"  Buy Price  ■ $241.50 \"\"  Sell Price  ■ $60.40 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 16,
+    "n": "Block of Lapis Lazuli",
+    "l": "\"\"  Buy Price  ■ $1,569.10 \"\"  Sell Price  ■ $392.30 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 17,
+    "n": "Lapis Lazuli",
+    "l": "\"\"  Buy Price  ■ $166.10 \"\"  Sell Price  ■ $41.50 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 18,
+    "n": "Block of Netherite",
+    "l": "\"\"  Buy Price  ■ $267,904.60 \"\"  Sell Price  ■ $66,976.20 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 19,
+    "n": "Netherite Ingot",
+    "l": "\"\"  Buy Price  ■ $28,349.70 \"\"  Sell Price  ■ $7,087.40 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 20,
+    "n": "Nether Quartz",
+    "l": "\"\"  Buy Price  ■ $380.40 \"\"  Sell Price  ■ $95.10 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 21,
+    "n": "Redstone Dust",
+    "l": "\"\"  Buy Price  ■ $60.40 \"\"  Sell Price  ■ $15.20 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 22,
+    "n": "Block of Redstone",
+    "l": "\"\"  Buy Price  ■ $570.60 \"\"  Sell Price  ■ $142.70 \"\"  Usage:  ╚» Left click to buy  ╚» Shift + Right Click to sell all  ╚» Right click to sell"
+   },
+   {
+    "s": 27,
+    "n": "Player Head",
+    "l": "Balance: $115.83"
+   },
+   {
+    "s": 31,
+    "n": "Paper",
+    "l": ""
+   },
+   {
+    "s": 35,
+    "n": "Barrier",
+    "l": ""
+   }
+  ]
+ }
+}

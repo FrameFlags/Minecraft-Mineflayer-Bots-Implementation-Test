@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>ServerBots</title>
+  <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+  <header>
+    <div class="brand">
+      <span id="dot" class="dot"></span>
+      <span class="title">ServerBots</span>
+      <span id="who" class="muted"></span>
+    </div>
+    <div class="header-right">
+      <span id="status" class="muted">connecting…</span>
+      <button id="clear" type="button">Clear</button>
+    </div>
+  </header>
+
+  <div class="layout">
+    <section class="left">
+      <div id="feed" class="feed" aria-live="polite"></div>
+    </section>
+
+    <aside class="right">
+      <div class="panel-head">
+        <span class="panel-title">Snow bot</span>
+        <div class="panel-actions">
+          <button id="snow-toggle" type="button" title="Start/stop the snow loop">Start</button>
+        </div>
+      </div>
+      <div id="snow-status" class="win-title">idle</div>
+
+      <div class="panel-head">
+        <span class="panel-title">Container</span>
+        <div class="panel-actions">
+          <button id="open-chest" type="button" title="Open the nearest chest/barrel">Chest</button>
+          <button id="accept" type="button" title="Click the accept/rules item">Accept</button>
+          <button id="takeall" type="button" title="Take every container slot">Take all</button>
+          <button id="closewin" type="button" title="Close the container">Close</button>
+        </div>
+      </div>
+      <div id="win-title" class="win-title">no container open</div>
+      <div id="container-grid" class="grid"></div>
+      <div class="hint">click = use / place · shift+click = quick take</div>
+
+      <div class="panel-head">
+        <span class="panel-title">Inventory</span>
+        <div class="panel-actions">
+          <button id="depositall" type="button" title="Move everything into the container">Deposit all</button>
+        </div>
+      </div>
+      <div id="inventory-grid" class="grid"></div>
+      <div class="hint">shift+click a slot = quick deposit</div>
+    </aside>
+  </div>
+
+  <footer>
+    <form id="chat-form" class="input-row">
+      <input id="chat" type="text" autocomplete="off"
+             placeholder="Chat — send to the server, e.g. /tpa itamio">
+      <button type="submit">Send</button>
+    </form>
+    <form id="cmd-form" class="input-row">
+      <input id="cmd" type="text" autocomplete="off"
+             placeholder="Command — e.g. /containershow, /take tnt, /status, /help">
+      <button type="submit">Run</button>
+    </form>
+  </footer>
+
+  <div id="tooltip" class="tooltip" hidden></div>
+  <script src="/app.js"></script>
+</body>
+</html>
