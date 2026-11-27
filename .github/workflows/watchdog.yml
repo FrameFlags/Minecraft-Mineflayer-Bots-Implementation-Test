@@ -1,0 +1,46 @@
+name: Bot watchdog
+
+# GitHub's scheduled events are best-effort: they get delayed or silently
+# dropped under load. The main bot run also self-stops at 170 min, so a single
+# missed cron tick used to leave all six accounts offline for hours.
+#
+# This watchdog runs often and simply asks: "is a bot run active?" If not, it
+# dispatches one. A dropped tick now costs at most ~15 minutes of downtime.
+
+on:
+  schedule:
+    - cron: '*/15 * * * *'
+  workflow_dispatch:
+
+concurrency:
+  group: bot-watchdog
+  cancel-in-progress: true
+
+permissions:
+  actions: read
+  contents: write
+
+jobs:
+  ensure-running:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Ensure a bot run is active or queued
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPO: ${{ github.repository }}
+        run: |
+          set -euo pipefail
+          WF="run-bots.yml"
+
+          in_progress=$(gh api "repos/$REPO/actions/workflows/$WF/runs?status=in_progress&per_page=1" --jq '.total_count')
+          queued=$(gh api "repos/$REPO/actions/workflows/$WF/runs?status=queued&per_page=1" --jq '.total_count')
+          total=$(( ${in_progress:-0} + ${queued:-0} ))
+
+          if [ "$total" -gt 0 ]; then
+            echo "A bot run is already active or queued ($total). Nothing to do."
+            exit 0
+          fi
+
+          echo "No active bot run — dispatching one."
+          gh workflow run "$WF" --repo "$REPO"
+          echo "Dispatched a fresh bot run."
