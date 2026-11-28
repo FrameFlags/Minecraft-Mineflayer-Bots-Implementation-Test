@@ -98,6 +98,7 @@ jobs:
           MC_SLOT: ${{ matrix.slot }}
           MC_BOTS: ${{ secrets.MC_BOTS }}
           MC_AFK_BOTS: ${{ secrets.MC_AFK_BOTS }}
+          MC_KIT_BOTS: ${{ secrets.MC_KIT_BOTS }}
           MC_HOST: ${{ secrets.MC_HOST }}
           MC_PORT: ${{ secrets.MC_PORT }}
           MC_VERSION: ${{ secrets.MC_VERSION }}

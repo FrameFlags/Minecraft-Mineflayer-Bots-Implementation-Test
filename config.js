@@ -72,8 +72,9 @@ module.exports = {
   bots: (() => {
     const names = (process.env.MC_BOTS || 'bot1,bot2').split(',').map(s => s.trim()).filter(Boolean);
     const afk = new Set((process.env.MC_AFK_BOTS || '').split(',').map(s => s.trim()).filter(Boolean));
+    const kit = new Set((process.env.MC_KIT_BOTS || '').split(',').map(s => s.trim()).filter(Boolean));
     return Object.fromEntries(names.map(name => [
-      name, { username: name, mode: afk.has(name) ? 'afk' : 'money' }
+      name, { username: name, mode: kit.has(name) ? 'kit' : afk.has(name) ? 'afk' : 'money' }
     ]));
   })(),
 
@@ -81,5 +82,10 @@ module.exports = {
   afk: {
     owner: process.env.PAY_TO || 'player',
     homesFile: 'bus/homes.json'
+  },
+
+  // Kit role: only the pay target may command the bot.
+  kit: {
+    owner: process.env.PAY_TO || 'player'
   }
 };
