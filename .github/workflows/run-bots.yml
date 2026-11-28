@@ -94,7 +94,7 @@ jobs:
           BUS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           BUS_KEY: ${{ secrets.STATE_KEY }}
           BUS_INTERVAL_MS: '5000'
-          BUS_STAGGER_MS: ${{ matrix.delay }}
+          BOT_STAGGER_MS: ${{ matrix.delay }}
           MC_SLOT: ${{ matrix.slot }}
           MC_BOTS: ${{ secrets.MC_BOTS }}
           MC_AFK_BOTS: ${{ secrets.MC_AFK_BOTS }}
